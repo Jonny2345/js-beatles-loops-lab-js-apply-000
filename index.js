@@ -21,9 +21,7 @@ function johnLennonFacts(facts) {
     console.log(facts);
   }
   
- //calls the function to alter the array
- johnLennonFacts(facts)
-
+ //ca
 function iLoveTheBeatles(number) {
   var array = [];
   do {
